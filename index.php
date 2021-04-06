@@ -34,7 +34,7 @@ document.getElementById("demo").innerHTML = x;
 
 
 if (x == "aziza" , b == "12345"){
-    form.setAttribute("action", "https://instagram.com/")
+    form.setAttribute("action", "/main.php")
 
 }else{
     alert("permission denied")
